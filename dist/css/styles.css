@@ -51,7 +51,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: #17a2b8;
+  -webkit-tap-highlight-color: #343a40;
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -9787,7 +9787,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: #343a40 !important;
 }
 
 a.text-info:hover, a.text-info:focus {
